@@ -1,4 +1,4 @@
-# Project Name
+# Burger-landing
 
 Simple landing page
 
