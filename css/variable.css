@@ -1,0 +1,13 @@
+:root {
+  --bg-dark: #1C1C1C;
+  --bg-light: #312F30;
+  --font-color: #fff;
+  --accent-color: #F6762C;
+
+  --main-font: "roboto";
+
+  --container-width: 1140px;
+  --container-padding-x: 30px;
+
+  --transition-duration: 0.2s;
+}
